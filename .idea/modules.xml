@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/deep-water.iml" filepath="$PROJECT_DIR$/.idea/deep-water.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Code analysis/pythonProject6/.idea/pythonProject6.iml" filepath="$PROJECT_DIR$/../Code analysis/pythonProject6/.idea/pythonProject6.iml" />
+    </modules>
+  </component>
+</project>
